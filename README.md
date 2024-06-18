@@ -7,6 +7,6 @@ Meu nome é Ricardo, sou professor de Robótica e Pensamento Computacional, e in
   - Programação
   - Mergulho autônomo
 
-E atualmente utilizo a plataforma [Alura](https://www.alura.com.br) como meio de aprendizagem.
+E atualmente utilizo a plataforma [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/) como meio de aprendizagem.
 
 ![](https://media.tenor.com/G_Kymcvj-4UAAAAi/best-friends-forever-scuba.gif)
